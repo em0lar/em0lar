@@ -1,9 +1,9 @@
-### Hi there
+### Hey there
 I'm em0lar. You may also know me as Leo. Most of my projects can you find on [git.labcode.dev](https://git.labcode.dev/em0lar) even if they aren't here.
 
 I'm nonbinary. My English pronouns are **they/them**. In general I prefer gender neutral pronouns, but if your language doesn't support them you may use both binary pronouns.
 
-I do a lot of things with train data, such as [FahrplanDatenGarten](https://github.com/fahrplandatengarten/fahrplandatengarten) and [pyhafas](https://github.com/n0emis/pyhafas). Also I use Ansible a lot. My playbook for my infrastructure can you find [here](https://github.com/em0lar/server_ansible). The (I think) okay (maybe good) ansible roles I made are mirrored here. If for some reason you still want to see them all, you will find them [here](https://git.labcode.dev/ansible_roles).
+I do a lot of things with train data 🚄, such as [FahrplanDatenGarten](https://github.com/fahrplandatengarten/fahrplandatengarten) and [pyhafas](https://github.com/n0emis/pyhafas). Also I use Ansible a lot. My playbook for my infrastructure can you find [here](https://github.com/em0lar/server_ansible). The (I think) okay (maybe good) ansible roles I made are mirrored here. If for some reason you still want to see them all, you will find them [here](https://git.labcode.dev/ansible_roles).
 
 <hr>
 
