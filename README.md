@@ -7,12 +7,14 @@ I do a lot of things with train data 🚄, such as [FahrplanDatenGarten](https:/
 
 <hr>
 
-If you're interested in my stuff or want to talk to me for any reason, feel free to contact me:
+If you're interested in my stuff or want to talk to me for any reason, feel free to contact me or/and follow me on social media:
 * Matrix: @leo:labcode.de
 * E-Mail: hello@em0lar.de
 * IRC: em0lar on Freenode and hackint
 * Telegram: em0lar
-* Threema: E2JZJUSE
+* Threema: [E2JZJUSE](https://threema.id/E2JZJUSE)
+* Twitter: [@em0lar](https://twitter.com/em0lar)
+* Mastodon [@em0lar@chaos.social](https://chaos.social/@em0lar)
 
 I like PGP encrypted and signed messages. If you do too, you can use the following key:
 
