@@ -16,7 +16,7 @@ If you're interested in my stuff or want to talk to me for any reason, feel free
 
 I like PGP encrypted and signed messages. If you do too, you can use the following key:
 
-`[https://keys.openpgp.org/vks/v1/by-fingerprint/430411806903447FF65FCBCBB1ADA545CD2CBACD](Leo Maroni <en0lar@em0lar.de>)`
+[`Leo Maroni <em0lar@em0lar.de> (430411806903447FF65FCBCBB1ADA545CD2CBACD1)`](https://keys.openpgp.org/vks/v1/by-fingerprint/430411806903447FF65FCBCBB1ADA545CD2CBACD1)
 
 <!--
 **em0lar/em0lar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
