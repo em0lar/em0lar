@@ -1,5 +1,6 @@
 ### Hey there
-I'm em0lar, I'm queer. You may also know me as Leo. You can find most of my projects on [git.labcode.dev](https://git.labcode.dev/em0lar) even if they aren't here.
+
+I'm em0lar, I'm queer and very cute. You may also know me as Leo. You can find most of my projects on [git.labcode.dev](https://git.labcode.dev/em0lar) even if they aren't here.
 
 I'm nonbinary. My English pronouns are **they/them**. In general I prefer gender neutral pronouns, but if your language doesn't support them you may use both binary pronouns.
 
@@ -8,6 +9,7 @@ I do a lot of things with train data 🚄, such as [FahrplanDatenGarten](https:/
 <hr>
 
 If you're interested in my stuff or want to talk to me for any reason, feel free to contact me or/and follow me on social media:
+
 * Matrix: @leo:labcode.de
 * E-Mail: hello@em0lar.de
 * IRC: em0lar on Freenode and hackint
