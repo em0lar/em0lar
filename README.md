@@ -1,5 +1,5 @@
 ### Hey there
-I'm em0lar. You may also know me as Leo. You can find most of my projects on [git.labcode.dev](https://git.labcode.dev/em0lar) even if they aren't here.
+I'm em0lar, I'm queer. You may also know me as Leo. You can find most of my projects on [git.labcode.dev](https://git.labcode.dev/em0lar) even if they aren't here.
 
 I'm nonbinary. My English pronouns are **they/them**. In general I prefer gender neutral pronouns, but if your language doesn't support them you may use both binary pronouns.
 
